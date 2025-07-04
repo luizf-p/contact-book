@@ -49,13 +49,15 @@ node server.js
 ```
 
 Segundo terminal (Frontend):
+```bash
 npm start
+```
 
 ### Após iniciar ambos, acesse no navegador:
-#### URL do frontend
+- URL do frontend
 http://localhost:3000
 
-#### Ou via linha de comando (Linux/Mac)
+- Ou via linha de comando (Linux/Mac)
 open http://localhost:3000  # Mac
 xdg-open http://localhost:3000  # Linux
 
