@@ -4,6 +4,7 @@ Uma aplicação web fullstack para gerenciamento de contatos pessoais com React 
 
 ![Preview da aplicação](public/screenshot.png)
 
+
 ## 🚀 Funcionalidades
 
 - ✅ CRUD completo de contatos
@@ -12,6 +13,7 @@ Uma aplicação web fullstack para gerenciamento de contatos pessoais com React 
 - ✅ Busca avançada e filtros
 - ✅ API RESTful
 - ✅ Persistência em banco de dados
+
 
 ## 🛠 Tecnologias
 
@@ -28,6 +30,7 @@ Uma aplicação web fullstack para gerenciamento de contatos pessoais com React 
 - JWT para autenticação
 - Multer para uploads
 
+
 ## ⚙️ Instalação
 
 1. Clone o repositório:
@@ -40,6 +43,7 @@ npm install
 
 3. Configure o arquivo .env no diretório server:
 CONNECTIONSTRING = sua_string_de_conexao
+
 
 ## 🚦 Execução
 
@@ -59,17 +63,6 @@ http://localhost:3000
 open http://localhost:3000  # Mac
 xdg-open http://localhost:3000  # Linux
 
-### 📁 Estrutura do Projeto
-.
-├── client/               # Frontend React
-│   ├── public/           # Assets públicos
-│   ├── src/              # Código fonte
-│   └── package.json      # Dependências
-├── server/               # Backend Node.js
-│   ├── models/           # Modelos do banco
-│   ├── routes/           # Rotas da API
-│   └── server.js         # Ponto de entrada
-└── README.md             # Documentação
 
 ### 📝 Licença
 - MIT License - Livre para uso
