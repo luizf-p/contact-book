@@ -54,12 +54,14 @@ npm start
 ```
 
 ### Após iniciar ambos, acesse no navegador:
-- URL do frontend
+- URL do frontend /n
 http://localhost:3000
 
 - Ou via linha de comando (Linux/Mac)
+ ```bash
 open http://localhost:3000  # Mac
 xdg-open http://localhost:3000  # Linux
+```
 
 
 ### 📝 Licença
