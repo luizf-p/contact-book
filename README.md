@@ -3,7 +3,7 @@
 Uma aplicação web fullstack para gerenciamento de contatos pessoais com React (frontend) e Node.js (backend).
 
 ![Preview da aplicação](public/screenshot.png)
-
+<br>
 
 ## 🚀 Funcionalidades
 
@@ -11,7 +11,7 @@ Uma aplicação web fullstack para gerenciamento de contatos pessoais com React 
 - ✅ Autenticação de usuários
 - ✅ Criação de Contatos e Exclusão
 - ✅ Persistência em banco de dados
-
+<br>
 
 ## 🛠 Tecnologias
 
@@ -25,7 +25,7 @@ Uma aplicação web fullstack para gerenciamento de contatos pessoais com React 
 **Backend**:
 - Node.js + Express
 - MongoDB 
-
+<br>
 
 ## ⚙️ Instalação
 
@@ -39,7 +39,7 @@ npm install
 
 3. Configure o arquivo .env no diretório server:
 CONNECTIONSTRING = sua_string_de_conexao
-
+<br>
 
 ## 🚦 Execução
 
@@ -62,7 +62,7 @@ http://localhost:3000
 open http://localhost:3000  # Mac
 xdg-open http://localhost:3000  # Linux
 ```
-
+<br>
 
 ### 📝 Licença
 - MIT License - Livre para uso
