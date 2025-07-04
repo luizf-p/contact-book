@@ -9,16 +9,14 @@ Uma aplicação web fullstack para gerenciamento de contatos pessoais com React 
 
 - ✅ CRUD completo de contatos
 - ✅ Autenticação de usuários
-- ✅ Upload de fotos de perfil
-- ✅ Busca avançada e filtros
-- ✅ API RESTful
+- ✅ Criação de Contatos e Exclusão
 - ✅ Persistência em banco de dados
 
 
 ## 🛠 Tecnologias
 
 **Frontend**:
-- React.js + TypeScript
+- React.js 
 - Styled Components
 - React Hook Form
 - Context API
@@ -26,9 +24,7 @@ Uma aplicação web fullstack para gerenciamento de contatos pessoais com React 
 
 **Backend**:
 - Node.js + Express
-- MongoDB (ou outro banco configurado)
-- JWT para autenticação
-- Multer para uploads
+- MongoDB 
 
 
 ## ⚙️ Instalação
