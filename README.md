@@ -54,7 +54,7 @@ npm start
 ```
 
 ### Após iniciar ambos, acesse no navegador:
-- URL do frontend /n
+- URL do frontend <br>
 http://localhost:3000
 
 - Ou via linha de comando (Linux/Mac)
