@@ -39,11 +39,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frostyez/save.git"
+    "url": "git+https://github.com/luizf-p/contact-book.git"
   },
   "bugs": {
-    "url": "https://github.com/frostyez/save/issues"
+    "url": "https://github.com/luizf-p/contact-book/issues"
   },
-  "homepage": "https://github.com/frostyez/save#readme",
+  "homepage": "https://github.com/luizf-p/contact-book#readme",
   "description": ""
 }
